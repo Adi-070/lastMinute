@@ -43,9 +43,13 @@ ___Customization of different hotels in a particular city chosen by preference, 
 
 ![Screenshot 2023-08-27 191225](https://github.com/Adi-070/lastMinute/assets/111191321/2af1b2f1-e461-4ef6-9bc7-fc905d729570)
 
+![Screenshot 2023-08-27 191405](https://github.com/Adi-070/lastMinute/assets/111191321/5b1bbb94-d33e-48c0-869a-e573c399e8a0)
 
 ___List of Backend API requests___
-![Screenshot 2023-08-27 191405](https://github.com/Adi-070/lastMinute/assets/111191321/5b1bbb94-d33e-48c0-869a-e573c399e8a0)
+
+
+
+
 
 
 
